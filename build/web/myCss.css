@@ -1,0 +1,24 @@
+.ghi
+{
+ background:#ababff;
+ margin-left:2in;
+ height :30px;
+ width:300px;
+ border-style:solid;
+} 
+
+.errorR
+{
+ background:#Fa0000;
+ position:absolute;
+ top:1in;
+ height:30px;
+ width:300px;
+ left:5in;
+ padding-top:10px;
+ color:#000000;
+ border-color:#000000;
+ border-style:dotted;
+ font-size: 13pt ;
+ text-align:center ;
+}
